@@ -1,0 +1,10 @@
+^C:\USERS\27853\DESKTOP\SDL小游戏（塔防前的最后练手\BUILD\CMAKEFILES\1DCCDE19FE992827777029256703BF99\GENERATE.STAMP.RULE
+setlocal
+D:\VS2022\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe -SC:/Users/27853/Desktop/SDL小游戏（塔防前的最后练手 -BC:/Users/27853/Desktop/SDL小游戏（塔防前的最后练手/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/27853/Desktop/SDL小游戏（塔防前的最后练手/build/BiohazardChicken.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

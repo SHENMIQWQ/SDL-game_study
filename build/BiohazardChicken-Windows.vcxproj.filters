@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\27853\Desktop\SDL小游戏（塔防前的最后练手\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\27853\Desktop\SDL小游戏（塔防前的最后练手\src\vector2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\27853\Desktop\SDL小游戏（塔防前的最后练手\src\timer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\27853\Desktop\SDL小游戏（塔防前的最后练手\src\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\27853\Desktop\SDL小游戏（塔防前的最后练手\src\atlas.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\27853\Desktop\SDL小游戏（塔防前的最后练手\src\animation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\27853\Desktop\SDL小游戏（塔防前的最后练手\src\bullet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\27853\Desktop\SDL小游戏（塔防前的最后练手\src\chicken.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\27853\Desktop\SDL小游戏（塔防前的最后练手\src\chicken_fast.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\27853\Desktop\SDL小游戏（塔防前的最后练手\src\chicken_medium.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\27853\Desktop\SDL小游戏（塔防前的最后练手\src\chicken_slow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\27853\Desktop\SDL小游戏（塔防前的最后练手\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{EFF5DFC5-101B-3B4D-B01B-C7EC6F335D2D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{24B0081A-FFE3-36AC-976B-9E71AF9E82F9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
